@@ -1,0 +1,441 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The way to good success propounded in a sermon preached upon November the 24th, 1684, at Trinity-house-Chappel, to the wardens, elder brethren, and fraternity of masters and seamen of the same house, at Kingston upon Hull / by N.L., minister of the gospel at St. Mary's Church in Hull.</title>
+            <author>N. L.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1685</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 48 KB of XML-encoded text transcribed from 19 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A49636</idno>
+            <idno type="STC">Wing L49</idno>
+            <idno type="STC">ESTC R43334</idno>
+            <idno type="EEBO-CITATION">27212887</idno>
+            <idno type="OCLC">ocm 27212887</idno>
+            <idno type="VID">110038</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A49636)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 110038)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1723:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The way to good success propounded in a sermon preached upon November the 24th, 1684, at Trinity-house-Chappel, to the wardens, elder brethren, and fraternity of masters and seamen of the same house, at Kingston upon Hull / by N.L., minister of the gospel at St. Mary's Church in Hull.</title>
+                  <author>N. L.</author>
+               </titleStmt>
+               <extent>[2], 31, [3] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by John White, and are to be sold by Thomas Clark bookseller in Hull,</publisher>
+                  <pubPlace>York, :</pubPlace>
+                  <date>1685.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Advertisement: 3 p. at end.</note>
+                  <note>Reproduction of original in British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Psalms XXXVII, 5 --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-11</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-11</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:110038:1" rendition="simple:additions"/>
+            <p>THE WAY TO Good SUCCESS. Propounded in a SERMON,</p>
+            <p>Preached upon <hi>November</hi> the 24th, 1684. at <hi>Tri<g ref="char:EOLhyphen"/>nity-houſe-Chappel,</hi> to the <hi>Wardens,</hi> elder Bre<g ref="char:EOLhyphen"/>thren, and Fraternity of <hi>Maſters</hi> and <hi>Sea<g ref="char:EOLhyphen"/>men</hi> of the ſame Houſe, at <hi>King<g ref="char:EOLhyphen"/>ſton</hi> upon <hi>Hull.</hi>
+            </p>
+            <p>By <hi>N. L.</hi> Miniſter of the Goſpel at <hi>St. Mary</hi>'s Church in <hi>Hull.</hi>
+            </p>
+            <p>
+               <hi>YORK,</hi> Printed by <hi>John White,</hi> and are to be ſold by <hi>Thomas Clark</hi> Bookſeller in <hi>Hull,</hi> 1685.</p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:110038:2"/>
+            <pb n="1" facs="tcp:110038:2" rendition="simple:additions"/>
+            <head>The WAY to GOOD SUCCESS.</head>
+            <epigraph>
+               <q>
+                  <bibl>Pſalm. 37.5.</bibl>
+                  <p>Commit thy way unto the Lord: truſt alſo in him, and he ſhall bring it to paſs.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">E</seg>Very Man in his particular Calling and Employment, expects and de<g ref="char:EOLhyphen"/>ſires good <hi>Succeſs,</hi> and the hopes thereof makes him willing to un<g ref="char:EOLhyphen"/>dergo Labour and Hardſhip. The <hi>Husband-man</hi> he takes a great deal of pains to Manure, Till, and Sow his Ground, hop<g ref="char:EOLhyphen"/>ing that his labour and trouble will be recompen<g ref="char:EOLhyphen"/>ced with a good Crop, with the joy of Harveſt. The <hi>Merchant</hi> and the <hi>Marriner,</hi> with much care and diligence fit their Ship, and then go down to the Sea, and occupy themſelves in great Waters, Sailing ſometimes in the midſt of great Rocks and Storms, with the hazard of Lives and Fortunes, and all this hoping for a gainful Voyage and good re<g ref="char:EOLhyphen"/>turns.</p>
+            <pb n="2" facs="tcp:110038:3" rendition="simple:additions"/>
+            <p>This <hi>Succeſs</hi> being that which is ſo much deſired and aimed at by all, one would think that any Project in order thereto ſhould be embraced, or any good Rule propounded by wiſe experienced men ſhould be obſerved. The Royal Prophet <hi>David</hi> was a man of great wiſdom and experience, both as a Subject, and as a King: He was one that made great adventures, run through as much buſi<g ref="char:EOLhyphen"/>neſs as any man in his time: He had the trial of as many and great troubles and dangers, at home and abroad, as moſt we read of: And he from his own experience, and being infallibly guided by the Holy Ghoſt, propounds this as the moſt certain method for the obtaining of good <hi>Succeſs</hi> in all our tranſactions; <hi>Commit thy way unto the Lord,</hi> &amp;c.</p>
+            <p>In which words we have firſt a moſt neceſſary practical duty enjoyned, <hi>[Commit thy way unto the Lord.] 2dly.</hi> Good Succeſs promiſed upon the diſcharge of this Duty; <hi>[And he ſhall bring it to paſs.]</hi>
+            </p>
+            <p>I ſhall not need to ſpend much time in explain<g ref="char:EOLhyphen"/>ing the words, there not ſeeming much difficulty. By <hi>[way]</hi> in Scripture is uſually ſet forth all the whole courſe of a Chriſtians Life, all his thoughts and purpoſes, actions and ſufferings, cares and troubles. <hi>[And he ſhall bring it to paſs] Dabit Caep<g ref="char:EOLhyphen"/>tis ſuis ſucceſſum.</hi> verſ. Tig<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>. <hi>He ſhall give ſucceſs.</hi>
+               <pb n="3" facs="tcp:110038:3" rendition="simple:additions"/>Both the parts of the Text may be included in this Propoſition.</p>
+            <div type="part">
+               <head>'Tis every Chriſtians duty and intereſt to commit his way to God.</head>
+               <p>A Point very clear from other parts of Sacred Writ as well as this, but not ſo well underſtood and be<g ref="char:EOLhyphen"/>lieved in the World, as we may judge without the breach of Charity: By reaſon men take ſuch irre<g ref="char:EOLhyphen"/>gular Courſes to ſecure themſelves, and bring about their deſignes. The ſame rule <hi>David</hi> gives, <hi>Pſal.</hi> 55.22. <hi>Caſt thy burden on the Lord and he ſhall ſu<g ref="char:EOLhyphen"/>ſtain thee. Portabit te &amp; onus tuum. M<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>is.</hi> He ſhall not ſuffer thee to ſink under the burden of thy fears and cares, work and buſineſs: And not only <hi>David</hi> the Father, but <hi>Solomon</hi> the Son Preach this Doctrine. <hi>Prov.</hi> 16.3. <hi>Commit thy works to the Lord, and thy thoughts ſhall be eſtabliſhed. Cogita<g ref="char:EOLhyphen"/>tiones tuae</hi> i. e. <hi>Conſilia tua, pia &amp; proba. Piſc. in lor.</hi> Thy thoughts, that is, thy pious and honeſt counſels <hi>ſhall be eſtabliſhed, i. e.</hi> ſhall ſucceed and ſhall not be in vain. Our bleſſed Saviour and his holy Apoſtles, did frequently teach this Leſſon to their Followers. <hi>Mat.</hi> 6.25. <hi>Therefore I ſay unto you, Take no thought for your life, what ye ſhall eat, or what ye ſhall drinks, nor yet for your body, what ye
+<pb n="4" facs="tcp:110038:4"/>ſhall put on.</hi> In which place our Saviour diſſwades them from anxious care about proviſion, and would have them commit their way to God: For firſt, God gave life and he gave the body; certainly then he will take care of things neceſſary for you. Secondly, God takes care of the Fowles of the Air, and Lillies of the Field, that do not labour; much more will he take care of you that are of greater worth and do labour: Take one more, <hi>Phil.</hi> 4.6. <hi>Be careful for nothing, but in every thing by prayer &amp; ſupplication with thanksgi<g ref="char:EOLhyphen"/>ving, let your requeſts be made known unto God.</hi> v. 7. <hi>&amp; the peace of God, which paſſes all underſtanding, ſhall keep your hearts in the knowledge and the love of God, through Chriſt Jeſus.</hi>
+               </p>
+               <p>In our further diſcourſe upon this Subject, I ſhall enquire,</p>
+               <list>
+                  <item>1. <hi>What it is to Commit our way to God?</hi>
+                  </item>
+                  <item>2. <hi>What Confiderations may-enforce this duty?</hi>
+                  </item>
+                  <item>3. <hi>When, or in what caſes more eſpecially we ought to diſcharge it?</hi>
+                  </item>
+               </list>
+               <p>Before I anſwer the firſt <hi>Quaere</hi> poſitively, give me leave to premiſe theſe two things:</p>
+               <p n="1">1. This Command, <hi>[Commit your way to God]</hi> doth not ſuperſeed our diligence in our Affairs: Men ſhould not give themſelves to Idleneſs and expect that God ſhould take care of them, and pro<g ref="char:EOLhyphen"/>vide
+<pb n="5" facs="tcp:110038:4" rendition="simple:additions"/>for them. Religion binds us to great dili<g ref="char:EOLhyphen"/>gence, both in our particular Callings as Men, and general Callings as Chriſtians. <hi>Eccl.</hi> 9.10. <hi>What<g ref="char:EOLhyphen"/>ever thine hand findeth to do, do it with thy might.</hi> St. <hi>Paul</hi> looks upon ſuch as are Idle to be diſorder<g ref="char:EOLhyphen"/>ly: 2 <hi>Theſſ.</hi> 3.11. <hi>For we hear there are ſome among you which walk diſorderly, working not at all;</hi> Theſe he Commands and exhorts, <hi>verſ.</hi> 12. <hi>that with quiet<g ref="char:EOLhyphen"/>neſs they work and eat their own bread.</hi> And he gives a double reaſon for this, 1. That they may pro<g ref="char:EOLhyphen"/>vide for their family. 1 <hi>Tim.</hi> 5.8. <hi>2dly.</hi> That they may have to relieve the poor. <hi>Epeſ.</hi> 4.28. <hi>Let him that ſtole ſteal no more, but rather let him labour, work<g ref="char:EOLhyphen"/>ing with his hands the thing that is good, that he may have to give unto him that needeth.</hi> Again, in our general Callings as Chriſtians, we are enjoyned to be diligent. 2 <hi>Pet.</hi> 1.10. <hi>Wherefore the rather, bre<g ref="char:EOLhyphen"/>thren, give diligence to make your Calling and Electi<g ref="char:EOLhyphen"/>on ſure.</hi> The word <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> doth denote great In<g ref="char:EOLhyphen"/>duſtry and Vigilancy, to make it ſure, not in our own Opinion, but to ſe<gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> it in the effect by dili<g ref="char:EOLhyphen"/>gent and careful obedience: ſo <hi>verſe</hi> 5. <hi>And be<g ref="char:EOLhyphen"/>ſides this giving all diligence, add to your faith vertue, and to vertue knowledge,</hi> &amp;c. So that you ſee there is an Obligation lies upon us, not to be ſlothful in buſineſs, but fervent in Spirit, ſerving the Lord: That we ſhould be diligent in the Worſhip of God,
+<pb n="6" facs="tcp:110038:5" rendition="simple:additions"/>in the carrying on the Warfare againſt our Spiritual Enemies, in the Exerciſe of all Divine graces, in a word, in our whole Chriſtian race.</p>
+               <p n="2">2. This Command doth not ſuperſeed our pro<g ref="char:EOLhyphen"/>vident care and prudence in the management of our Affairs: The Laws of the Chriſtian Religion obliege us to order our Affairs with diſcretion. The wiſe man tells us, <hi>Prov.</hi> 14.8. <hi>The wiſdom of the Prudent is to underſtand his way.</hi> His Committing his way to God is not inconſiſtent with his pro<g ref="char:EOLhyphen"/>pounding a juſt and honeſt end to himſelf, and chuſing the moſt proper means to attain it: He for<g ref="char:EOLhyphen"/>ſees dangers, and endeavours to avoid them; He diſcovers difficulties, and prepares to encounter them: Religion is ſo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> far from being an Enemy to the prudent management of our Affairs in the World, that where it is heartily embraced, it doth much aſſiſt us therein, as it frees us from many hurt<g ref="char:EOLhyphen"/>ful luſts and Paſſions, which darken the underſtan<g ref="char:EOLhyphen"/>ding, that we cannot ſo prudently order our con<g ref="char:EOLhyphen"/>cerns: as it fortifies us againſt the troubles we meet with in carrying on our juſt and honeſt deſignes: therefore 'tis ſaid of <hi>David,</hi> who committed his way to God, and put his truſt in him; <hi>That he fed his people according to the integrity of his heart, and guided them by the skilfulneſs of his hands:</hi> or as read by ſome, <hi>Ruled prudently with all his power,</hi> Pſal.
+<pb n="7" facs="tcp:110038:5" rendition="simple:additions"/>78.72. They are therefore under a great miſtake, who think that becauſe God commands them to commit their way unto him, they may either be negligent or improvident.</p>
+            </div>
+            <div n="1" type="question">
+               <head>Now I come to ſpeak Poſitively what it is to Commit our Way to the Lord.</head>
+               <p>This Committing our Way to God, doth imply, our ſubmitting our ſelves and wayes to the Gove<g ref="char:EOLhyphen"/>mant of God, a yielding up our ſelves to the con<g ref="char:EOLhyphen"/>duct of Heaven; to be ruled and guided by thoſe Laws that God governs his Subjects by: that God who gave unto us our lives, hath given alſo to us Laws; and when we obſerve theſe Laws to be a Rule for our Actions, then we may be ſaid to commit our Way unto him. But if we follow the dictates of our own corrupt Minds, or the evil examples of others, or the ſinful Cuſtoms of the Times and Pla<g ref="char:EOLhyphen"/>ces wherein we live, we renounce God's Sove<g ref="char:EOLhyphen"/>raignty over us, and diſown, as it were, our depen<g ref="char:EOLhyphen"/>dance upon him. Yea further, if either we have any wicked projects and deſignes, or manage any of our affairs by unwarrantable means, <hi>viz.</hi> Fraud, Lying, Perjury, or Injuſtice, we are ſo far from Committing our Wayes to God, that we may be ſaid to commit them to the Devil; and are ſo far from obtaining his bleſſing, that we forfeit his fa<g ref="char:EOLhyphen"/>vour, and the aides of his good Spirit. When the
+<pb n="8" facs="tcp:110038:6"/>Devil ſet upon our Bleſſed Saviour in the Wilder<g ref="char:EOLhyphen"/>neſs, <hi>Matth.</hi> 4.6. he would have perſwaded him to vain confidence; ſaying, <hi>If thou be the Son of God caſt thy ſelf down, for it is written, he will give his Angels charge concerning thee, and in their hands they ſhall bear thee up, leaſt at any time thou daſh thy foot againſt a ſtone:</hi> and he alledgeth, <hi>Pſal.</hi> 91.12. that God had given the Angels charge of him: but he leaves out part of the Verſe which was con<g ref="char:EOLhyphen"/>trary to his purpoſe, <hi>viz. He ſhall keep thee in all thy wayes. In omnibus actionibus loci, munerisſive vocationis tuae,</hi> In all the actions of thy place, duty, or vocation. And therefore our Saviour, <hi>verſe</hi> 7. intimates, that if he ſhould do ſo, he ſhould be ſo far from truſting in God, that it would be a tempt<g ref="char:EOLhyphen"/>ing God, ſaying, It is written, <hi>Thou ſhalt not tempt the Lord thy God.</hi> Wherefore every good Chriſti<g ref="char:EOLhyphen"/>an ought to take care in the firſt place, that his way be good, that his actions be agreeable to the Law and the Teſtimonies; and know this, that there is no doubt, difficulty, condition of life or action to be performed, which Gods Law doth not give par<g ref="char:EOLhyphen"/>ticular or general directions for. Many times in<g ref="char:EOLhyphen"/>deed we are to ſeek, and at a loſs, and cannot find a reſolution of our Caſe: yet 'tis not becauſe the Law is imperfect, but becauſe our ſences are not ſufficiently exerciſed therein, to diſcover it, and ſo
+<pb n="9" facs="tcp:110038:6"/>not able to accommodate the great Rule to our particular Caſe: For the Law of the Lord is per<g ref="char:EOLhyphen"/>fect, and able to make the man of God perfect. 2 <hi>Tim.</hi> 3.15.</p>
+               <p n="2">2. It implyes our ſeeking to Almighty God by Prayer, for his direction and bleſſing. <hi>Phil.</hi> 4.6. <hi>Be careful for nothing, but in every thing by Prayer and ſupplication; with thanksgiving let your requeſts be known unto God.</hi> This is not only an indiſpen<g ref="char:EOLhyphen"/>ſible duty, but our great priviledge; that in all our undertakings we may ſue to God for aide and for his bleſſing: We are but weak ſilly Creatures of our ſelves and can effect nothing; all our ſufficiency is of him: We may riſe up early and ſit up late, and eat the bread of carefulneſs, and all to no purpoſe, unleſs God Crown our underta<g ref="char:EOLhyphen"/>kings with his Bleſſing. Let us therefore, fre<g ref="char:EOLhyphen"/>quently in the moſt humble and devout manner, beg earneſtly of Almighty God that he would ſup<g ref="char:EOLhyphen"/>ply all our wants, ſupport us in all our difficul<g ref="char:EOLhyphen"/>ties, deliver us out of imminent dangers, proſper our honeſt and juſt undertakings; let us ſay with <hi>David, Shew me thy way O Lord, lead me in thy truth, and teach me, for thou art the God of my Sal<g ref="char:EOLhyphen"/>vation.</hi> Great encouragement have we for the diſcharge of this duty from Gods appointment, from his gracious promiſes, and from the examples
+<pb n="10" facs="tcp:110038:7"/>of the moſt pious Men in all Ages, who have taken this courſe with good Succeſs, <hi>Moſes, David,</hi> and all the worthies of Old, have left this upon Record from their own Experience, <hi>That God is nigh unto all them that call upon him. That the Lord is good to them that wait for him, to the Soul that ſeeketh him.</hi> Lam. 3.25.</p>
+               <p n="3">3. This Committing our Way to God, implyes, our truſting in his Word and Promiſes, and this is the main Matter included in the Text, and there<g ref="char:EOLhyphen"/>fore 'tis added, <hi>Truſt alſo in him. Volve ſuper Do<g ref="char:EOLhyphen"/>minum; Reſt on him who is a Rock. David</hi> ſaith, <hi>He is the Rock of my Salvation,</hi> Pſal. 18.46. and therefore he will truſt in him. The devout Father St. <hi>Bernard,</hi> whilſt he ſpeaks concerning this Rock, has theſe words, <hi>Fremit mundus, premit corpus, inſidiatur Diabolus non cedo;</hi> The World rageth, the fleſh pincheth, the Devil ſpreads Snares: <hi>Yet I fall not, becauſe I am fixed on a Rock.</hi> This it is to live by Faith when we meet with ſtrong temptati<g ref="char:EOLhyphen"/>ons, and are in danger to be drawn into Sin, then we ſeek to God for help, and uſe our utmoſt en<g ref="char:EOLhyphen"/>deavours, and wait confidently upon him for ſuch an iſſue as he hath promiſed. <hi>Pſal.</hi> 34.22. <hi>The Lord delivereth the Souls of his Saints, and none that put their truſt in him ſhall be deſtitute.</hi> I might ſhew you the Examples of <hi>Abraham, David, Daniel,</hi>
+                  <pb n="11" facs="tcp:110038:7"/>the <hi>three Children,</hi> how they Committed their Way to God, and truſted to him in the midſt of great difficulties and dangers, and found that God was as good as his word. From which inſtances we might likewiſe take notice that a good Chriſtian, as he fears nothing but ſin, ſo he is ſolicitous about nothing but duty: He need not trouble himſelf about Events, for God is faithful, who promiſeth to turn all for good in the Iſſue to theſe who Commit their Way to him, and alſo truſt in him.</p>
+               <p n="4">4. This Committing our Way to God implyes an humble Submiſſion to him, and contentedneſs of mind with God's ordering of us and our Affairs: Such do not rebel againſt Gods will, nor murmur at his Proceedings, nor contend againſt his Provi<g ref="char:EOLhyphen"/>dence, but are ready to ſay with <hi>Eli,</hi> under the greateſt diſappointments, and the moſt ſeeming croſs Providences, <hi>It is the Lord, let him do what ſeemeth him good.</hi> 1 Sam. 3.18. Our Religion teacheth us, when God in his Providence croſſeth or diſappointeth us in our Enterprizes, not to fly in the face of God in a paſſion, but to fall down at his feet in ſubmiſſion. Our bleſſed Saviour gave us his own example for this duty: When God put a bitter Cup into his hand to drink, he ſaid, <hi>The Cup which my Father gives me ſhall I not drink it?</hi> The great Apoſtle <hi>Paul</hi> alſo took out this Leſ<g ref="char:EOLhyphen"/>ſon,
+<pb n="12" facs="tcp:110038:8" rendition="simple:additions"/>
+                  <hi>Phil.</hi> 4.11, 12. <hi>For I have learned in what<g ref="char:EOLhyphen"/>ſoever ſtate I am therewith to be content. I know both how to be abaſed and how to abound, every where and in all things I am inſtructed, both to be full and to be hungry, both to abound and ſuffer need.</hi>
+               </p>
+            </div>
+            <div n="2" type="question">
+               <head>
+                  <hi>Qu. 2.</hi> What Conſiderations may enforce this Duty?</head>
+               <p n="1">1. I ſhall only name two, the firſt is in the Text, <hi>[he will bring it to paſs]</hi> or, turn it to good: And the force of this firſt Conſideration will appear, if we take notice, 1. That God is able to bring it to paſs. 2. That he is willing. <hi>Firſt,</hi> That God is able; although this be a truth that moſt men take for granted, yet ſeing it oft falls out that our Faith is put to the ſtretch, things are ſo croſs, and with <hi>Nicodemus</hi> are ready to ſay, <hi>How can theſe things be? can God furniſh a Table in the Wilderneſs?</hi> It will not be amiſs to touch upon theſe following particulars, that our judgements may be ſatisfied in the preſent truth. Whoever is diſappointed in any deſign he undertakes, 'tis either becauſe he wants prudence to manage it, power to compleat it, or cannot be preſent to carry it on. Now there is that in God which anſwers theſe defects. 1. Their wiſdom in God, and that infinit too, whereby he
+<pb n="13" facs="tcp:110038:8"/>is able to forecaſt his work, and to overwit the wiſeſt; As <hi>Eliphaz</hi> ſayes, <hi>Job.</hi> 5.12. <hi>He diſap<g ref="char:EOLhyphen"/>pointeth the devices of the Crafty, ſo that their hands cannot perform their enterprize.</hi> verſe 13. <hi>He taketh the wiſe in their own craftineſs, and the counſel of the froward is carried headlong.</hi> Whatever wayes of Wiſdom are to be met with in the Creature, they are but ſo many beams of light darted from him who is the Original. <hi>Jam.</hi> 1.5 <hi>If any lack wiſdom let him ask of God who gives it to all men liberally, and upbraideth not, and it ſhall be given him.</hi> Then as the Pſalmiſt ſaith, <hi>Pſal.</hi> 94.9, 10. <hi>He that plan<g ref="char:EOLhyphen"/>ted the ear ſhall not he hear? He that formed the eye ſhall not he ſee? He that teacheth man knowledge ſhall not he know?</hi> Yes ſurely, therefore, <hi>Rom.</hi> 16. laſt, He is called <hi>the only wiſe God.</hi> 2. There is power in God. It hath been obſerved by ſome, that this expreſſion is found no leſs then 70 times in Scripture, that God is <hi>Almighty,</hi> difficulties are no difficulties with him: Whatever is abſolutely poſſible in it ſelf (excepting that which is inconſi<g ref="char:EOLhyphen"/>ſtent with perfection,) it falls within the reach of his power. He can bring about his deſigns by weak means, without any means that are obvious to the eye of man, or by ſeeming contrary means. All the Creatures are at his beck and command; he can diſpoſe them, take away their beeings, ſuſpend
+<pb n="14" facs="tcp:110038:9" rendition="simple:additions"/>their Actions; yea, the very hearts of men are in his hands, and he can turn them as <hi>the Rivers of water.</hi> 3. He is Omnipreſent; oftimes mens de<g ref="char:EOLhyphen"/>ſigns miſcarry, 'cauſe they cannot be at ſeveral places the ſame time, or cannot act at a diſtance: but God is preſent in all places, and filleth all things. <hi>Can any man hide himſelf in ſecret places that I ſhould not ſee him, for do not I fill heaven and earth,</hi> Jer. 23.24. And this being added to his Wiſdom and Power, make it out that God is able to bring things to paſs.</p>
+               <p>
+                  <hi>Secondly,</hi> God is willing to bring it to paſs. He is good and merciful, and delighteth to do good and to ſhew mercy. It's as natural to God to do good, as for the Eye to ſee or the Ear to hear. The ſweet Singer of <hi>Iſrael, David,</hi> Celebrateth the mercy and goodneſs of God in <hi>Pſal.</hi> 106.107, 108. God hath no pleaſure in puniſhing men, and therefore Juſtice is called <hi>Op<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> à lienum,</hi> his ſtrange work; and when at any time he doth inflict Judgements upon them he ſeems to be troubled thereat. <hi>How ſhall I give thee up</hi> Ephraim? <hi>how ſhall I make thee as</hi> Admah, <hi>how ſhall I ſet thee as</hi> Zeboim, <hi>Hoſ.</hi> 11.8. He hath no delight in diſap<g ref="char:EOLhyphen"/>pointing men in their Enterprizes: God hath a natural inclination to do us good, to Crown our endeavours with Succeſſe, to gratify thoſe that
+<pb n="15" facs="tcp:110038:9"/>pleaſe him. <hi>Pſal.</hi> 35.27. <hi>Let the Lord be magni<g ref="char:EOLhyphen"/>fied, who hath pleaſure in the proſperity of his Ser<g ref="char:EOLhyphen"/>vants.</hi> Beſides, Gods willingneſs is apparent from the many gracious Promiſes that he hath made in his Word: to help and relieve them that put their truſt in him.</p>
+               <p n="2">2. There is none that we can Commit our Way with ſafety to but unto God. It will be acknow<g ref="char:EOLhyphen"/>ledged, that we cannot with ſafety commit our Way to the Devil; though there are too many, God knows, who take this courſe: ſuch as conſult Wiſemen, but this their way is their folly. Such as take unwarrantable courſes to bring about their deſigns, they for certain will find themſelves diſap<g ref="char:EOLhyphen"/>pointed in the iſſue. Neither can a man put confi<g ref="char:EOLhyphen"/>dence in himſelf with ſafety; he is both too feeble and too fooliſh. <hi>Jer.</hi> 10.23. <hi>O Lord I know that the way of man is not in himſelf: it is not it man that walketh to direct his own ſteps.</hi> If a man put confi<g ref="char:EOLhyphen"/>dence in himſelf, 'tis the way to want Succeſs: Neither may we with ſafety put confidence in Friends, though they be a great treaſure: For the greateſt through impotency may, or through fraud will deceive us, <hi>Job</hi> complains <hi>Job</hi> 6.15. <hi>My bre<g ref="char:EOLhyphen"/>thren have dealt deceitfully as a brook, and as the ſtreams of brooks they paſs away.</hi> Neither can we truſt in the greateſt of men: One would
+<pb n="16" facs="tcp:110038:10"/>think that if any thing was to be truſted in, it was to be in Kings and Princes: but ſee what is ſaid <hi>Pſalm</hi> 62.9. <hi>Surely men of low degree are vanity, and men of high degree are a lye: to be laid in the Ballance they are altogether lighter then vanity.</hi> Therefore he ſayes, <hi>Pſalm</hi> 146.3, 4. <hi>Put not your truſt in Princes, nor in the Son of man, in whom there is no help. His breath goeth forth, he returneth to his earth: in that very day his thoughts periſh.</hi> Man is but vanity, and God never created him to be truſted in: Truſt is too great a burden for any thing but God. But ſome think they may ſafely put confidence in their Wealth, <hi>Pſal.</hi> 52.7. <hi>Lo, this is the man that made not God his ſtrength: but truſted in the abundance of his riches, and ſtrengthened himſelf in his wickedneſs.</hi> Prov. 10.15. <hi>The Rich mans wealth is his ſtrong Citty:</hi> But 'tis but in his <hi>own con<g ref="char:EOLhyphen"/>ceit.</hi> For <hi>Prov.</hi> 11.28. <hi>He that truſteth in his riches ſhall fall:</hi> They take themſelves wings and fly away from one Perſon to another, from one Family to another: Therefore we are charged by the Apo<g ref="char:EOLhyphen"/>ſtle, not to truſt in uncertain Riches, but in the Living God.</p>
+            </div>
+            <div n="3" type="question">
+               <head>
+                  <hi>Qu. 3.</hi> When, or in what caſes more eſpecially we ought to commit our Way to God?</head>
+               <pb n="17" facs="tcp:110038:10"/>
+               <p>
+                  <hi>David, Pſal.</hi> 62.8. ſayes, <hi>Truſt in him at all times ye people, God is a Refuge for us. Solomon,</hi> Prov. 3.6. ſayes, <hi>In all thy Wayes acknowledge him and he ſhall direct thy Paths.</hi> Yet there are ſome particular Caſes, and ſpecial Seaſons, which call for the diſcharge of this Duty, and they are ſuch as concern our Souls, or our Affairs.</p>
+               <div n="1" type="section">
+                  <head>
+                     <hi>Firſt,</hi> Such as concern our Souls.</head>
+                  <p n="1">1. When we are under apprehenſions of great guilt that we have contracted upon our Conſcien<g ref="char:EOLhyphen"/>ces in the by paſt time of our Lives, ſo that we are afraid that God will never Pardon us, never re<g ref="char:EOLhyphen"/>ceive us into his favour: Then, and in this caſe, let us endeavour to perform the Conditions required: let us be ſorrowful for our ſins, let us acknowledge our Iniquities: let us earneſtly beg Pardon in the name of Chriſt, and then we may with confidence commit our Souls unto God, not troubling our ſelves with thoſe unneceſſary Enquiries about Gods Eternal Decrees: but diligently making uſe of all theſe means that he hath appointed for the obtain<g ref="char:EOLhyphen"/>ing of his grace and favour: truſt in him who hath promiſed, <hi>If we confeſs and forſake our ſins he will have mercy and forgive.</hi> 1 Joh. 1.9.</p>
+                  <p n="2">2. Another ſpecial Seaſon is, when we meet
+<pb n="18" facs="tcp:110038:11"/>with ſtrong temptations, either from Satan, the World, or our own Corruptions. It may be the condition of good men, that they may be diſqui<g ref="char:EOLhyphen"/>eted with fear, leſt theſe ſons of <hi>Zerviah</hi> ſhould be too hard for them. In this caſe they ſhould be active and diligent, and truſt in God for the migh<g ref="char:EOLhyphen"/>ty aid of his Bleſſed Spirit; knowing, that greater is he that is with us, then he that is in the World; the Eternal God is our refuge: Truſt in him, for he hath not only promis'd aſſiſtance, but hath gi<g ref="char:EOLhyphen"/>ven ſtrength to thoſe that have already managed this Warfare. The Apoſtle <hi>Paul,</hi> when he was buffeted by Satan, beſought the Lord, and com<g ref="char:EOLhyphen"/>mitted his way to him; and God ſaid, <hi>My grace is ſufficient for thee.</hi> 2 Cor. 12.7, 8, 9.</p>
+                  <p n="3">3. In caſe we have very little comfort in our Chriſtian courſe, ſometimes it may be the condi<g ref="char:EOLhyphen"/>tion of good men, that though they be careful in the diſcharge of their duty, yet their minds may be full of doubts and fears, and God ſeems to hide his face from them. This was <hi>Davids</hi> caſe, <hi>Pſal.</hi> 30.7. <hi>Thou didſt hide thy face and I was troubled.</hi> But then ſee <hi>Pſalm</hi> 31.1. <hi>In thee, O Lord, do I put my truſt; deliver me in thy Righteouſneſs.</hi> See <hi>Iſa.</hi> 50.10. <hi>Who is among you that feareth the Lord, that obeyeth the voice of his ſervant, that walketh in dark<g ref="char:EOLhyphen"/>neſs, and hath no light, let him truſt in the name of
+<pb n="19" facs="tcp:110038:11"/>the Lord, and ſtay upon his God.</hi> And thus <hi>Job,</hi> a Chriſtian of an ancient date ſaid, <hi>Though he ſlay me yet will I truſt in him. Job.</hi> 13.15.</p>
+                  <p n="4">4. At the hour of Death, when we are taking our leave of all that's near and dear to us in this world, and our Souls, as it were, ſits upon our lips ready to lanch out into the Ocean of Eternity: This is a ſpecial Seaſon to commit our Souls unto God. Thus did the Protomartyr St <hi>Stephen.</hi> Act. 7.59 <hi>And they ſtoned</hi> Stephen, <hi>calling upon God, and ſaying, Lord Jeſus receive my Spirit.</hi> In like manner did our bleſſed Saviour. <hi>Luke</hi> 23.46. And when Jeſus had cried with a loud voice, he ſaid, <hi>Father into thy hand I commend my ſpirit;</hi> and ha<g ref="char:EOLhyphen"/>ving ſaid thus he gave up the Ghoſt.</p>
+               </div>
+               <div n="2" type="section">
+                  <head>
+                     <hi>2.</hi> Such as concern our Affairs in this World.</head>
+                  <p n="1">1. When we engage in any weighty buſineſs, where there is difficulty and danger: Now, though we ought to commit our way to God every day, and in all our Affairs, (for this duty is not only to be exerciſed in the Church, and upon the firſt day of the Week, but in our Shops, and in our Houſes, in our Trades, in eating and drinking and Recrea<g ref="char:EOLhyphen"/>tions, and that every day in the Week) yet more eſpecially when we are in danger of meeting with
+<pb n="20" facs="tcp:110038:12"/>temptations, and much oppoſition, then we are to beg from Heaven direction and aid, and to truſt in him for good <hi>Succeſs.</hi> Thus did <hi>Eleazar Abrahams</hi> Steward, <hi>Gen.</hi> 24.12. <hi>O Lord God of my Maſter</hi> Abraham, <hi>I pray thee ſend me good ſpeed this day, and ſhew kindneſs unto my Maſter</hi> Abra<g ref="char:EOLhyphen"/>ham. Thus <hi>Jehoſhaphat,</hi> 2 Cron. 20.12. <hi>Lord we have no might againſt this great Hoſt, but our eyes are towards thee.</hi>
+                  </p>
+                  <p n="2">2. VVhen mens good Names are taken away, and they are reproached and falſly accuſed, as <hi>Joſeph</hi> by his Miſtris, <hi>David</hi> by <hi>Doeg,</hi> and this ſeems to be the caſe of <hi>David</hi> in the Text: for <hi>verſe</hi> 6. <hi>He ſhall bring forth thy righteouſneſs as the light, and thy judgement as the noon-day. Job</hi> was charged by his friends for an Hypocrite, and he truſted in God, and he was pleaſed to vindicate him, and make his Innocency apparent to the whole world. Chriſt Jeſus who did no ſin, neither was guile found in his mouth, yet did he not eſcape the reproaches of men, and under thoſe reproaches diſcharged this duty, 1 <hi>Pet.</hi> 2.23. <hi>Who when he was reviled, reviled not again; when he ſuffered, he threatned not: but com<g ref="char:EOLhyphen"/>mitted himſelf to him that judgeth righteouſly. Euſe<g ref="char:EOLhyphen"/>bius</hi> tells us, that <hi>Narciſſus</hi> Biſhop of <hi>Jeruſalem,</hi> was accuſed of a foul Crime by three men; he had no way to clear his innocency but by committing
+<pb n="21" facs="tcp:110038:12"/>his Cauſe to God, and he was pleaſed to inflict heavy judgements upon two of them, ſo that the third ſeeing Gods hand ſtretched out againſt the other, became penitent and confeſſed all, ſo then the cloud of Reproach vaniſhed, and his Innocen<g ref="char:EOLhyphen"/>cy ſhined as the light.</p>
+                  <p n="3">3. When we are in ſtraits about the things of this Life, and have no proſpect of any means viſible for a ſupply, then is a ſpecial Seaſon to commit our ſelves and wayes to God in the diſcharge of thoſe duties we ought to perform: For he hath promiſed, <hi>The young Lions ſhall lack and ſuffer hun<g ref="char:EOLhyphen"/>ger, but they that fear the Lord ſhall not want any good thing. Pſ.</hi> 34.10. Then truſt in him who can bleſs the little Meal in the Barrel, &amp; the Oyl in the Cruſe: who could feed <hi>Elijah</hi> by Ravens, and the <hi>Iſraelites</hi> with Manna and Quails from Heaven in the Wilderneſs: and will not ſuffer thoſe that truſt in him to want neceſſaries.</p>
+                  <p n="4">4. When we are full of fears and troubles about Poſterity, this is the caſe of many good men, who are very ſollicitous about their Poſterity, what will become of them when they are dead and gone: Indeed they have reaſon to be troubled if they have rais'd Eſtates for them with a Curſe, by Injuſtice, Fraud, or Extortion: for then they expoſe them to the Judgements of God, <hi>who viſits the iniquity
+<pb n="23" facs="tcp:110038:13"/>of the Fathers upon the Children.</hi> Exod. 20.5. <hi>For I the Lord thy God am a jealous God, viſiting the iniqui<g ref="char:EOLhyphen"/>ty of the Fathers upon the Children unto the third and fourth generation of them that hate me.</hi> Or elſe, if they have been guilty of ſome groſs ſins, that draws down the effects of Gods wrath even upon Poſteri<g ref="char:EOLhyphen"/>ty: for God is ſaid to lay up the iniquity of the wicked man for his Children. <hi>Job.</hi> 21.19. <hi>God layeth up his iniquity for his Children,</hi> (i. e.) the pu<g ref="char:EOLhyphen"/>niſhment of it, as in the Margent. Thus <hi>Jeroboam</hi> left a Curſe upon his Poſterity by his Idolatry 1 <hi>King.</hi> 15.29, 30. <hi>And it came to paſſe when he Reigned, that he ſmote all the houſe of</hi> Jeroboam, <hi>he left not to</hi> Jeroboam <hi>any that breathed, until he had deſtroyed him, according to the ſaying of the Lord, which he ſpake by</hi> Ahijah <hi>the</hi> Shilonite: <hi>Becauſe of the ſins of</hi> Jeroboam <hi>which he ſinned, and which he made</hi> Iſrael <hi>to ſin, by his provocation wherewith he provoked the Lord God of</hi> Iſrael <hi>to anger.</hi> Thus <hi>Ge<g ref="char:EOLhyphen"/>hazi</hi> by taking the bribe, brought Gods curſe upon his Poſterity, 2 <hi>King.</hi> 5.27. <hi>The leproſy therefore of</hi> Naaman <hi>ſhall cleave unto thee, and to thy ſeed for ever.</hi> Likewiſe the <hi>Jews</hi> by their great ſin in Cru<g ref="char:EOLhyphen"/>cifying the Lord of Life and Glory, brought ſuch a Curſe upon their Poſterity, that they have been a Vagabound People for above 1600 Years. But now if men have been juſt and merciful in their
+<pb n="23" facs="tcp:110038:13"/>Lives, they need not be troubled about their Po<g ref="char:EOLhyphen"/>ſterity, even when they have made but ſmall pro<g ref="char:EOLhyphen"/>viſion for them, but may commit them unto God, who hath ſtiled himſelf a Father of the Fatherleſs, <hi>Pſalm</hi> 68.5. <hi>A Father of the Fatherleſs, and a Judge of the Widows is God in his holy Habitation.</hi> Beſides, God hath promiſed, <hi>That the ſeed of the Righteous ſhall be bleſſed:</hi> And he hath engadged himſelf by Covenant, not only to be their God but the God of their ſeed. <hi>Gen.</hi> 17.7. <hi>And I will eſtabliſh my Covenant between me and thee, and thy ſeed after thee, in their Generations, for an everla<g ref="char:EOLhyphen"/>ſting Covenant; to be a God unto thee, and to thy ſeed after thee.</hi>
+                  </p>
+                  <p n="5">5. When men are brought into troubles and ſtraits for Righteouſneſs ſake, it hath been, and may be the Lot of the Righteous to be brought in<g ref="char:EOLhyphen"/>to great dangers, to be perſecuted for righteouſneſs ſake, and to be ſtraitned that they can ſee no vi<g ref="char:EOLhyphen"/>ſible means for their help and deliverance: then is a proper Seaſon to act Faith upon God, and to commit their Way unto him. Let ſuch be ſure that the cauſe for which they ſuffer be good, and then that they ſuffer with a good Conſcience, and then they may ſay with <hi>Paul,</hi> 2 Tim. 1.12. <hi>For the which cauſe I alſo ſuffer theſe things, nevertheleſs I am not aſhamed, for I know whom I have believed,
+<pb n="24" facs="tcp:110038:14"/>and I am perſwaded that he is able to keep that which I have committed unto him againſt that day.</hi> Let ſuch I ſay truſt God Almighty who will ſupport them in their trouble, as he did the Martyrs of old; or deliver them out of their troubles one way or other.</p>
+                  <p>Object. 1. <hi>There are ſome that never commit their way to God, and yet have good Succeſſe and thrive and proſper in the World.</hi>
+                  </p>
+                  <p>
+                     <hi>Anſw.</hi> 1. This was that which troubled the Pſal<g ref="char:EOLhyphen"/>miſt much <hi>Pſal.</hi> 73. and ſhak'd his Faith, <hi>verſe</hi> 2. <hi>For I was envious at the fooliſh when I ſaw the pro<g ref="char:EOLhyphen"/>ſperity of the wicked.</hi> verſe 12. <hi>Behold theſe are the ungodly who proſper in the world, they increaſe in riches.</hi> When he thought to know this it was too painful for him, untill he went into the Sanctuary of God, there he underſtood their end, which was de<g ref="char:EOLhyphen"/>ſtruction. <hi>verſe</hi> 16.17, <hi>and</hi> 18. There he under<g ref="char:EOLhyphen"/>ſtood, that <hi>they ſhould be ſoon cut down like the graſs, and wither as the green herb.</hi> Pſal. 37.2, Pſal. 92.6, 7. <hi>A brutiſh man knoweth not, neither doth a fool underſtand this: When the wicked ſpring as the graſs, and all the workers of iniquity do flouriſh, it is that they ſhall be deſtroyed for ever.</hi> Then he per<g ref="char:EOLhyphen"/>ceived, and ſo may we do too, that the proſperity of fools ſhall deſtroy them. <hi>Prov.</hi> 1.32. <hi>For the turning away of the ſimple ſhall ſlay them, and the
+<pb n="25" facs="tcp:110038:14"/>proſperity of fools ſhall deſtroy them.</hi> So that this their Succeſs and Proſperity, makes but way for their greater fall: and though God may permit wicked men that commit their wayes rather to the Devil then to God, to thrive and proſper ſome<g ref="char:EOLhyphen"/>times in the World, yet this does but prepare them for greater deſtruction; and therefore <hi>David</hi> prays, <hi>Pſal.</hi> 17.13, 14. <hi>Deliver my ſoul from the Wicked which is thy ſword: From men which are thy hand, O Lord, from men in the world who have their porti<g ref="char:EOLhyphen"/>on in this life. And upon whom God ſhall rain ſnares, fire and brimſtone, and an terrible tempeſt, this is the portion of their Cup,</hi> Pſal. 11.6.</p>
+                  <p>Object. 2. <hi>Such as do commit their way to God we find want Succeſs, and thrive and proſper no better in their undertakings then others do.</hi>
+                  </p>
+                  <p>
+                     <hi>Anſw.</hi> 1. Some men ſeem to commit their way to God and yet do not, and no wonder if theſe be diſappointed: men that only have a name to live and pretend to Religion, but carry on baſe and wicked deſigns, theſe men have no intereſt in thoſe gracious Promiſes, for they are made to thoſe that are really vertuous and good, and work righte<g ref="char:EOLhyphen"/>ouſneſs.</p>
+                  <p n="2">2. Know, that though this be true for the moſt part, that God Crowneth the undertakings of good men with Succeſs; yet for ſome Reaſons for their
+<pb n="26" facs="tcp:110038:15"/>own Spiritual and Eternal advantage he may diſap<g ref="char:EOLhyphen"/>point them: as when their croſſes, diſappointments, want of Succeſs tends to the improvement of their Graces; their Faith, Meekneſs, Patience, Conten<g ref="char:EOLhyphen"/>tentedneſs, and for their better preparation for Heaven; ſuch Croſſes are great favours and bleſ<g ref="char:EOLhyphen"/>ſings in the Iſſue. 1 <hi>Cor.</hi> 11.32. <hi>We are chaſt<g ref="char:EOLhyphen"/>ned of the Lord, that we ſhould not be condemned with the World.</hi> In ſhort, ſuch perſons as do really com<g ref="char:EOLhyphen"/>mit their Way to God, and put their truſt in him, ſhall be no loſers in the iſſue, <hi>Eccleſ.</hi> 8.12. <hi>Yet ſurely I know it ſhall be well with them that fear God, that fear before him.</hi>
+                  </p>
+               </div>
+            </div>
+            <div type="part">
+               <head>
+                  <g ref="char:V">Ʋ</g>ſe.</head>
+               <p>Then ſuffer a word of Exhortation in the Words of the Text, <hi>Commit your Way unto the Lord, truſt alſo in him and he ſhall bring it paſs.</hi> Be ſure your deſigns be juſt and honeſt, and take no unwarran<g ref="char:EOLhyphen"/>table means to effect them, and then betake your ſelves to the Throne of Grace, waiting upon God with the Church. <hi>Iſa.</hi> 25.9. <hi>Lo this is our God, we have waited for him &amp; he will ſave us: this is the Lord, we have waited for him, we will be glad, and rejoice in his ſalvation.</hi> More particularly to you that are Sea-fairing men, that undertakes tedious and dan<g ref="char:EOLhyphen"/>gerous Voyages upon the great Deep: let me ex<g ref="char:EOLhyphen"/>hort
+<pb n="27" facs="tcp:110038:15"/>you to commit your Way to God, <hi>&amp;c.</hi> accor<g ref="char:EOLhyphen"/>ding to all the forementioned particulars. This is the moſt probable cauſe to ſecure your Perſons, Ships and Loading from the dangers of the Sea; and know aſſuredly, that if God ſhould ſuffer you to miſcarry upon the great Ocean, yet by this method you may ſecure your ſouls againſt the Waves and Billows of Gods Wrath to all Eternity.</p>
+            </div>
+            <div type="part">
+               <head>Directions for the better Diſcharge of this Duty that you may commit your Way to God.</head>
+               <p n="1">1. Live under the Apprehenſions of his Provi<g ref="char:EOLhyphen"/>dence. Divine Providence doth concern it ſelf in all Perſons and things in the World: which is a truth that none but profeſt <hi>Atheiſts</hi> will deny. The <hi>Epi<g ref="char:EOLhyphen"/>cureans</hi> indeed, (but 'tis charged on them as a groſs piece of inconſiſtency) grant there is a God, but that he buſies not himſelf with affairs below: but an idle God ſounds ſomething like a dark Sun, or cold Fire, both contradictions. A God in Hea<g ref="char:EOLhyphen"/>ven not ſuperintending all Tranſactions here be<g ref="char:EOLhyphen"/>low, is no better then a <hi>Heathen</hi> God, <hi>That have Eyes but ſee not, Ears but hear not, Hands but handle not.</hi> Now leſt we ſhould entertain ſuch unworthy thoughts of the living God, he manifeſts him<g ref="char:EOLhyphen"/>ſelf to us in the Scripture by what he is doing,
+<pb n="28" facs="tcp:110038:16"/>
+                  <hi>Iſa.</hi> 40.22, 23, <hi>It is he that ſitteth on the Circle of the Earth, and the Inhabitants thereof are as Graſ<g ref="char:EOLhyphen"/>hoppers: that ſtretcheth out the Heavens as a Cur<g ref="char:EOLhyphen"/>tain, and ſpreadeth them out as a Tent to dwell in: That bringeth the Princes to nothing, and maketh the Judges of the Earth as vanity: He pulls down one, and ſets up another. Ludit in humanis divina potentiarebus:</hi>
+               </p>
+               <lg>
+                  <l>Divine Power often dares</l>
+                  <l>Diſpart it ſelf in Mans Affairs.</l>
+               </lg>
+               <p n="1">1 Sam. 2.7, 8. <hi>The Lord maketh Poor and ma<g ref="char:EOLhyphen"/>keth rich: He bringeth low, and lifteth up: He raiſeth up the poor out of the duſt, and lifteth up the Beggar from the Dunghil to ſet them among Princes, and to make them inherit the Throne of Glory: for the Pillars of the Earth are the Lords, and he hath ſet the world upon them.</hi> Yea our Bleſſed Saviour hath put this out of doubt, that the Lord hath not left the World to be ruled by blind chances, but that his Providence reacheth the ſmalleſt concerns. <hi>Math.</hi> 10.29. <hi>Are not two Sparrows ſold for a far<g ref="char:EOLhyphen"/>thing? and one of them ſhall not fall on the ground without your Father.</hi> 30. <hi>But the very hairs of their head are all numbred.</hi> Yea theſe very things that ſeem to proceed from the courſe of Nature, from the malice of our Enemies, or our own improvi<g ref="char:EOLhyphen"/>dence, or chance, or fortune, are directed by the
+<pb n="29" facs="tcp:110038:16" rendition="simple:additions"/>Providence of God. Now then, if you firmly be<g ref="char:EOLhyphen"/>lieve the extent of this his Providence to all per<g ref="char:EOLhyphen"/>ſons and all Affairs, you will readily commit your Way to him, and wait upon him for <hi>Succeſs.</hi>
+               </p>
+               <p n="2">2. Call to mind what experience you have had at any time of the Power, Wiſdom, and Goodneſs of God in the ordering your Affairs: your manifold deliverances out of dangers, relief in ſtraits, eſpecial<g ref="char:EOLhyphen"/>ly ſuch of you as have lately been in great Storms at Sea, and God hath in his Providence pointed out a way for your ſafety, when many have been ſwallowed up in the great Deep. Remember this I ſay, and write upon this Mercy, <hi>Even ever</hi> hi<g ref="char:EOLhyphen"/>therto hath the Lord helped me; and for the fu<g ref="char:EOLhyphen"/>ture put your truſt in the living God, and caſt your care upon him. Thus did <hi>David</hi> when he was to encounter the great <hi>Goliah,</hi> he remembred how God has <hi>delivered him from the Lion and the Bear,</hi> and this made him confident that God would <hi>deliver him alſo from the uncircumciſed</hi> Philiſtine. And therefore the Pſalmiſt concludes, <hi>Pſalm</hi> 9.10. <hi>And they that know thy Name will put their truſt in thee, for thou Lord haſt not forſaken them that ſeek thee.</hi>
+               </p>
+               <p n="3">3. Labour for a ſtrong Faith. The Diſciples were ſenſible of this defect, and therefore pray the Lord that he would encreaſe then Faith. 'Tis be<g ref="char:EOLhyphen"/>cauſe
+<pb n="30" facs="tcp:110038:17"/>of the weakneſs of this grace that men turn aſide from the Lord, and walk unevenly; eſpeci<g ref="char:EOLhyphen"/>ally where they meet with difficulties and dangers: as appears by our Saviours rebuking his own Diſ<g ref="char:EOLhyphen"/>ciples for their weakneſs in this Grace: <hi>How long ſhall I be with you? How long ſhall I ſuffer you?</hi> And will not God take care of you much more then of Sparrows: <hi>O ye of little Faith;</hi> Whereas if your Faith were ſtronger in God you would the better overcome doubts and objections that might ariſe in your hearts againſt this truth: When Nature and Reaſon ſeem to be againſt <hi>Abrahams</hi> Obedience, yet his ſtrong Faith conquered all difficulties. <hi>Rom.</hi> 4.20. <hi>He ſtaggered not at the promiſe through unbelief; but was ſtrong in Faith, giving glory to God.</hi> Thus <hi>Moſes, David, Daniel,</hi> and the <hi>three Children,</hi> in moſt difficult caſes, committed their Way to God, being ſtrong in Faith: Say ye therefore, <hi>O Lord increaſe our Faith.</hi>
+               </p>
+               <p n="4">4. <hi>Laſtly,</hi> Make God your friend, endeavour to gain his Favour, and then you may with more con<g ref="char:EOLhyphen"/>fidence Commit your Way to him: Men do not uſually commit their Affairs to them they have no intereſt in, or acquaintance with: if wicked men (that by their Rebellions againſt God by their frequent acts of Hoſtility) have affronted the Almighty, ſhould in time of their great ſtraits ſeek
+<pb n="31" facs="tcp:110038:17"/>unto God, or commit their way to him: may not God ſay to them as <hi>Wiſdom</hi> ſpeaks, <hi>Prov.</hi> 1.24, 25, 26. <hi>Becauſe I have called &amp; ye refuſed, I have ſtretch<g ref="char:EOLhyphen"/>ed out my hands, and no man regarded; But ye have ſet at nought all my counſel, and would none of my reproof: I alſo will laugh at your calamity, I will laugh when your fear cometh; When your fear cometh as deſolation, and your deſtruction cometh as a Whirlwind; when di<g ref="char:EOLhyphen"/>ſtreſs and anguiſh cometh upon you. Then ſhall they call upon me, but I will not anſwer; they ſhall ſeek me early, but they ſhall not find me.</hi> Yea, God may ſay unto them, as <hi>Judg.</hi> 10.14. <hi>Go and cry unto the Gods which ye have choſen; let them deliver you in the time of your tribulations.</hi> Now there's no way Sirs, of making God our friend, or procuring his favour, but by yielding an univerſal, ſincere, conſtant obedience to his Com<g ref="char:EOLhyphen"/>mandments; by avoiding every known ſin, and wal<g ref="char:EOLhyphen"/>king ſoberly, and righteouſly, and godly before him: nor no way to maintain and preſerve acquaintance with him, but by frequent performance of all Reli<g ref="char:EOLhyphen"/>gious duties, ſuch as Prayer, Hearing, Reading, Medi<g ref="char:EOLhyphen"/>tation of Gods Word, and receiving the Sacraments: Therefore to conclude, let us take this method, that ſo we may with confidence, and ſafety, &amp; good Suc<g ref="char:EOLhyphen"/>ceſs Commit our Souls, Bodies, Eſtates, Affairs &amp; Po<g ref="char:EOLhyphen"/>ſterity, to God as our friend, to whom with his bleſ<g ref="char:EOLhyphen"/>ſed Son our Saviour, and the Holy Ghoſt, be praiſe and Glory for ever, <hi>Amen.</hi>
+               </p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:110038:18"/>
+            <head>ADVERTISEMENT. A Catalogue of Books ſold by <hi>Thomas Clark</hi> Book<g ref="char:EOLhyphen"/>ſeller in <hi>Kingſton</hi> upon <hi>Hull.</hi>
+            </head>
+            <list>
+               <head>Books in <hi>Folio.</hi>
+               </head>
+               <item>
+                  <hi>SEbald</hi>'s <hi>Scotland</hi> Illuſtrated.</item>
+               <item>
+                  <hi>Tulii Opera</hi> two Volumns.</item>
+               <item>
+                  <hi>Grew</hi>'s Anatomy of Roots and Plants.</item>
+               <item>
+                  <hi>Bocca</hi>'s Novels.</item>
+               <item>
+                  <hi>Baker</hi>'s Chronicles.</item>
+               <item>
+                  <hi>Almahide,</hi> a Romance.</item>
+               <item>
+                  <hi>Breut</hi>'s Hiſtory of <hi>France.</hi>
+               </item>
+               <item>
+                  <hi>Mezerey</hi>'s Hiſtory of <hi>France.</hi>
+               </item>
+               <item>
+                  <hi>Cave</hi>'s Lives of the Fathers in two Vol.</item>
+               <item>
+                  <hi>Euſebius</hi> Eccleſiaſtical Hiſtory in Engliſh.</item>
+               <item>
+                  <hi>Dalton</hi>'s Juſtice of Peace.</item>
+               <item>
+                  <hi>Meads</hi> Works.</item>
+               <item>
+                  <hi>Hammonds</hi> Works in four Vol.</item>
+               <item>
+                  <hi>Parry</hi>'s Surgery.</item>
+               <item>Marriners Magazine.</item>
+               <item>
+                  <hi>Phillip</hi>'s New World of Words.</item>
+               <item>
+                  <hi>Pharmacopoeia Londinenſis.</hi>
+               </item>
+               <item>
+                  <hi>Pembrook</hi>'s Arcadia.</item>
+               <item>
+                  <hi>Ruſhworth</hi>'s Collections in three Vol.</item>
+               <item>
+                  <hi>Strafford</hi>'s Trial.</item>
+            </list>
+            <list>
+               <head>Books in <hi>Quarto.</hi>
+               </head>
+               <item>
+                  <hi>Seller</hi>'s Practical Navigation.</item>
+               <item>
+                  <hi>Markhams</hi> Maſter-piece.</item>
+               <pb facs="tcp:110038:18"/>
+               <item>
+                  <hi>Salmon</hi>'s Iatrica.</item>
+               <item>Wedenfield <hi>De uſu, Spiritus Vini.</hi>
+               </item>
+               <item>
+                  <hi>Falkners</hi> 2. Treatiſe.</item>
+               <item>
+                  <hi>Dryden</hi>'s Hiſtory of the League.</item>
+               <item>VVay to get VVealth.</item>
+               <item>
+                  <hi>Phillip</hi>'s Navigation.</item>
+               <item>
+                  <hi>Godwin</hi>'s Antiquities.</item>
+               <item>
+                  <hi>Baxter</hi>'s Saints Reſt.</item>
+               <item>
+                  <hi>Clark</hi>'s Praxis.</item>
+               <item>
+                  <hi>Flavil</hi>'s Pnermatologia.</item>
+               <item>
+                  <hi>Charon</hi> of Wiſdom.</item>
+               <item>
+                  <hi>Cole</hi>'s Dictionary.</item>
+               <item>Marriners New Callender.</item>
+               <item>
+                  <hi>Degrey</hi>'s Horſeman.</item>
+               <item>Apprentice time Entertainer.</item>
+               <item>Merchants Account made eaſie.</item>
+               <item>Deſtruction of <hi>Troy.</hi>
+               </item>
+               <item>
+                  <hi>Brown</hi>'s Architecture.</item>
+            </list>
+            <list>
+               <head>Books in <hi>Octavo.</hi>
+               </head>
+               <item>Molley<hi>'s de Jure Maritimo, &amp; navali.</hi>
+               </item>
+               <item>
+                  <hi>Wingat</hi>'s Abridgement.</item>
+               <item>Jone<hi>'s De Febribus.</hi>
+               </item>
+               <item>
+                  <hi>Patrick</hi> on Proverbs.</item>
+               <item>Patrick<hi>'s Menſa Myſtica.</hi>
+               </item>
+               <item>
+                  <hi>Janua Linguarum.</hi>
+               </item>
+               <item>
+                  <hi>Kitchin</hi> on Courts.</item>
+               <item>Compleat Attorney.</item>
+               <item>
+                  <hi>Clerk</hi>'s Guide, in four Parts compleat.</item>
+               <pb facs="tcp:110038:19"/>
+               <item>King <hi>Charles the Second</hi>'s Life.</item>
+               <item>
+                  <hi>May</hi>'s Cookery.</item>
+               <item>
+                  <hi>Harres</hi> of the Venerial Diſeaſe.</item>
+               <item>
+                  <hi>Bate</hi>'s Hiſtory of the Late Troubles in <hi>England.</hi>
+               </item>
+               <item>
+                  <hi>Leybourn</hi>'s Vulgar Decimals.</item>
+               <item>
+                  <hi>Belgick Heſperides.</hi>
+               </item>
+               <item>
+                  <hi>Cromwel</hi>'s Life.</item>
+            </list>
+            <list>
+               <head>Books in <hi>Duodecimo.</hi>
+               </head>
+               <item>
+                  <hi>Bunian</hi>'s Pilgrims Progreſs in two Parts.</item>
+               <item>Life of <hi>Badman.</hi>
+               </item>
+               <item>Sighs from Hell.</item>
+               <item>Phariſee <hi>and</hi> Publican.</item>
+               <item>
+                  <hi>Flavel</hi>'s Seamans Compaſs Spiritualized.</item>
+               <item>
+                  <hi>Flavel</hi>'s Saint indeed.</item>
+               <item>
+                  <hi>Coke</hi> Coppy-holder.</item>
+               <item>
+                  <hi>Foxes</hi> Time and end of Time.</item>
+               <item>Plain mans Pathway to Heaven.</item>
+               <item>
+                  <hi>Dyer</hi>'s VVorks.</item>
+               <item>Two Journeys to <hi>Jeruſalem.</hi>
+               </item>
+               <item>Admirable Curioſities and Rarities.</item>
+               <item>
+                  <hi>Harvy</hi> on Small Pox.</item>
+               <item>Moral Gallentry.</item>
+               <item>
+                  <hi>England</hi> Monarchs Hiſtory of <hi>Scotland.</hi>
+               </item>
+            </list>
+            <pb facs="tcp:110038:19"/>
+         </div>
+         <trailer>FINIS.</trailer>
+      </back>
+   </text>
+</TEI>
